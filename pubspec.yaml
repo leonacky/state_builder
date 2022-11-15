@@ -1,7 +1,7 @@
 name: state_builder
 description: A state builder.
 version: 1.0.0
-homepage:
+homepage: https://github.com/leonacky/state_builder
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
