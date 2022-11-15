@@ -1,4 +1,4 @@
-library state_builder;
+library flutter_state_builder;
 
 import 'package:flutter/widgets.dart';
 

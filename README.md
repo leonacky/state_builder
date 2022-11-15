@@ -30,8 +30,23 @@ It means you have to declare a `StateHandler` has same [routeName] with `StateBu
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Run this command:
+With Dart:
+```
+$ dart pub add flutter_state_builder
+```
+With Flutter:
+```
+$ flutter pub add flutter_state_builder
+```
+
+This will add a line like this to your package's pubspec.yaml (and run an implicit dart pub get):
+```
+dependencies:
+    flutter_state_builder: ^1.0.0
+```
+
+Alternatively, your editor might support dart pub get or flutter pub get. Check the docs for your editor to learn more.
 
 ## Usage
 
