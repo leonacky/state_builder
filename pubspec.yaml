@@ -1,6 +1,6 @@
 name: flutter_state_builder
 description: A state builder.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/leonacky/state_builder
 
 environment:
